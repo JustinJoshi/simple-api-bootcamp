@@ -18,5 +18,23 @@ Example:
 ```
 I completed the challenge: 5
 I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+
+cat
+
+press button, get cat.
+
+yeah
+
+feeling super? get super cat!
+
+Tech used: HTML, CSS, JavaScript
+
+I used a simple fetch request to get cat. (cat)
+
+Optimizations
+
+shoulda put more cat tbh
+
+Lessons Learned:
+i learned that i love putting cats into the dom. its very fun to watch them be silly
