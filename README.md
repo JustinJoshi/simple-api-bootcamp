@@ -15,22 +15,20 @@
   - Anything specific on which you want feedback!
 
 Example:
-```
+
 I completed the challenge: 5
 I feel good about my code: 4
 
+https://justinjoshi.github.io/simple-api-bootcamp/
 
 cat
 
 press button, get cat.
 
-yeah
-
-feeling super? get super cat!
 
 Tech used: HTML, CSS, JavaScript
 
-I used a simple fetch request to get cat. (cat)
+I used a simple fetch request to get cat
 
 Optimizations
 
